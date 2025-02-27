@@ -1,5 +1,5 @@
 ## Chatbot demo
-A ChatGPT powered chatbot ripped from an recent project. Posted for showcase to interested party. 
+A snapshot of ChatGPT powered chatbot I made for a business service I worked on. Posted for showcase to interested party. 
 
 ![Showcase](README_src/demo.gif)
 
