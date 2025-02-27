@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# rows=$(tput lines)
+# for i in $(seq 1 $rows); do
+#   echo
+# done
+
+source $PWD/.venv/bin/activate
+echo
+echo "You are now running the Python 3.11 virtual environment."
+echo "To deactivate, run \`deactivate\` command"
+echo
