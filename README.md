@@ -33,7 +33,7 @@ A ChatGPT powered chatbot ripped from an recent project. Posted for showcase to 
     ```bash
     pip install -r requirements.txt
     ```
-
+1. Request the `.env` file from me, place the file in the same folder as `main.py`.
 ### Launch the chatbot
 
 Once finish setup, on a terminal or command line, type:
