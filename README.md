@@ -1,9 +1,15 @@
 ## Chatbot demo
 A ChatGPT powered chatbot ripped from an recent project. Posted for showcase to interested party. 
 
+![Showcase](README_src/demo.gif)
+
+<br>
+
 ### Required installs: 
 * Python 3.11
 * git
+
+<br>
 
 ### Setup
 1. Open a terminal or command line, navigate to a desired location with `cd`
@@ -34,6 +40,9 @@ A ChatGPT powered chatbot ripped from an recent project. Posted for showcase to 
     pip install -r requirements.txt
     ```
 1. Request the `.env` file from me, place the file in the same folder as `main.py`.
+
+<br>
+
 ### Launch the chatbot
 
 Once finish setup, on a terminal or command line, type:
